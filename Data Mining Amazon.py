@@ -7,11 +7,11 @@ AdjClose1 = 0
 Date = 0
 data_list = []
 def get_data_list(File_Name):
-    with open(File_Name) as file:#USE THIS FILE
-        for line in file:#TAKE IT ONE LINE AT A TIME
+    with open(File_Name) as file:#Use this file
+        for line in file:#Create file one line at a time
             data_list.append(line.strip().split(','))
 get_data_list("amazon.txt")
-mastertuple = [] #THE MASTERTUPLE SWITCHES BETWEEN BEING A LIST AND A TUPLE FREQUENTLY
+mastertuple = [] #The mastertuple switches between being a list and a tuple frequently
 
 def get_monthly_averages(data_list):
     line = 1#DO NOT MOVE
