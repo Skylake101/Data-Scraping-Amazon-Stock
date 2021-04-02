@@ -1,7 +1,5 @@
 '''
 Luke Carlson
-Project 6
-12/5/2016
 This program shows the best and worst stock of Amazon
 '''
 Volume1 = 0
