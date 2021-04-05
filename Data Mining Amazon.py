@@ -1,5 +1,5 @@
 '''
-Luke Carlson
+Author: Luke Carlson
 This program shows the best and worst stock of Amazon
 '''
 Volume1 = 0
