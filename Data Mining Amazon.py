@@ -1,7 +1,7 @@
-'''
-Author: Luke Carlson
-This program shows the best and worst stock of Amazon
-'''
+/*
+ *Author: Luke Carlson
+ * This program shows the best and worst stock of Amazon
+ */
 Volume1 = 0
 AdjClose1 = 0
 Date = 0
